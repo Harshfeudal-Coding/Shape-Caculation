@@ -3,7 +3,7 @@ A new way to self-learning Object-Oriented Programming in C++ by caculating the 
 
 ## Attention
 This project just only for who are self-learning C++. I know C++ OOP (Object-Oriented Programming) kinda hard for who has just started in learning it.
-I haven't clarified the code too much on here so if you would like to know why I use it just send a Direct Message [on my Discord personal profile]().
+I haven't clarified the code too much on here so if you would like to know why I use it just send a Direct Message [on my Discord personal profile](https://discord.com/users/622450109317251088).
 
 ## Testing
 If you want to run test just use Visual Studio 2022 and open solution file `.sln`, or if you're using Visual Studio Code, please create a `CMake.txt` file and pre-set
