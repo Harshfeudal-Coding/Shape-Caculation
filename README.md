@@ -1,5 +1,5 @@
 # Shape Caculation
-A new way to self-learning Object-Orient program in C++ by caculating the shape area (rectangle and circle).
+A new way to self-learning Object-Oriented Programming in C++ by caculating the shape area (rectangle and circle).
 
 ## Attention
 This project just only for who are self-learning C++. I know C++ OOP (Object-Oriented Programming) kinda hard for who has just started in learning it.
